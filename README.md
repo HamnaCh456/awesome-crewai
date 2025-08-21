@@ -71,8 +71,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |         [Blood Report Analysis Crew](https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis)         |   This project leverages AI agents made using CrewAI framework in order t maintain a standard crew that analyzes blood reports by using a document reading tool , and provide insights as to what precautionary measures the patient should take based on online blog reports, fetched through a websurf tool    | [@yatharth230703](https://github.com/yatharth230703)     
 |         [CrewAI Crews Factory](https://github.com/opahopa/crewai-factory-crew)         |   Generate fully functional CrewAI crews based on the crew's purpose and desired output data    | [@opahopa](https://github.com/opahopa)    
 |         [Historical Figure Storyteller Crew](https://github.com/HamnaCh456/Historical_Figure_Storyteller)         | This project turns authentic historical sources into immersive, multilingual stories with AI-generated visuals, natural voiceovers, subtitles, and synchronized video. It uses Researcher Agent to gather information from web. Writer Agent crafts an immersive story. Voice Generator Agent creates natural voiceovers in the chosen language using Deepgram.Video Generator Agent produces an engaging video with subtitles.  | [@HamnaCh456](https://github.com/HamnaCh456)     
-|         [CrewAI Crews Factory](https://github.com/opahopa/crewai-factory-crew)         |   Generate fully functional CrewAI crews based on the crew's purpose and desired output data    | [@opahopa](https://github.com/opahopa)    
-
+   
 ---
 ### Apps/UI's
 | Title                          | Description                               | Author                                   |
